@@ -1,4 +1,4 @@
-<h1 align="center">👩🏻‍💻 Olá, eu sou a Letícia!</h1>
+<h1 align="center"> Olá, eu sou a Letícia!</h1>
 
 <p align="center">
   🎓 Estudante de Sistemas de Informação • 💻 Tecnologia & Desenvolvimento
