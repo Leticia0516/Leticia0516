@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/GitHub-Leticia0516-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="h[ttps://instagram.com/SEU_USUARIO](https://www.instagram.com/le_antoniassisouza?stkn=MzQ2cHRmd2N0ZWdz)">
+<a href="https://www.instagram.com/le_antoniassisouza?stkn=MzQ2cHRmd2N0ZWdz">
   <img src="https://img.shields.io/badge/Instagram-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
